@@ -1,0 +1,2 @@
+# use-collection-tracker
+Reactでリストの複数のアイテムをまとめて変更するためのトラッキング

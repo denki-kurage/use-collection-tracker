@@ -10,7 +10,7 @@ interface Product
     price: number;
 }
 
-const products2: Product[] = [
+const products: Product[] = [
     { id: 1, name: 'あたりめ', price: 320 },
     { id: 2, name: 'チーズ', price: 250 },
     { id: 3, name: 'つぶがい', price: 500 },
@@ -20,7 +20,7 @@ const products2: Product[] = [
 ];
 
 
-const products: Product[] = [
+const products2: Product[] = [
     { id: 1, name: 'AAA', price: 320 },
     { id: 2, name: 'BBB', price: 250 },
     { id: 3, name: 'CCC', price: 500 },

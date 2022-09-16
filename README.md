@@ -4,12 +4,12 @@ Reactでリストの複数のアイテムをまとめて変更するためのト
 
 考え方的なもはこちら。
 
-![https://kurage-worker.com/2022/collection-tracking-edit-db](https://kurage-worker.com/2022/collection-tracking-edit-db)
+[https://kurage-worker.com/2022/collection-tracking-edit-db](https://kurage-worker.com/2022/collection-tracking-edit-db)
 
 
 デモページはこちら。
 
-![https://denki-kurage.github.io/use-collection-tracker/public/](https://denki-kurage.github.io/use-collection-tracker/public/)
+[https://denki-kurage.github.io/use-collection-tracker/public/](https://denki-kurage.github.io/use-collection-tracker/public/)
 
 
 ## 例

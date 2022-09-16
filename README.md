@@ -9,7 +9,7 @@ Reactでリストの複数のアイテムをまとめて変更するためのト
 
 デモページはこちら。
 
-![]()
+![https://denki-kurage.github.io/use-collection-tracker/public/](https://denki-kurage.github.io/use-collection-tracker/public/)
 
 
 ## 例

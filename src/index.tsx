@@ -11,7 +11,6 @@ const root = createRoot(
     <App />
   );
 
-  reportWebVitals();
   
 
 

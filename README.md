@@ -12,6 +12,16 @@ Reactでリストの複数のアイテムをまとめて変更するためのト
 [https://denki-kurage.github.io/use-collection-tracker/public/](https://denki-kurage.github.io/use-collection-tracker/public/)
 
 
+
+トラッカーフックの実装は`useCollectionTracker.ts`です。
+ソースコードはこちら。
+
+[https://github.com/denki-kurage/use-collection-tracker/blob/main/src/useCollectionTracker.ts](https://github.com/denki-kurage/use-collection-tracker/blob/main/src/useCollectionTracker.ts)
+
+
+コンポーネント側はまだレプリカ状態です。
+
+
 ## 例
 
 
